@@ -1,0 +1,6 @@
+method: get
+url: /email/{emai-id}
+parameters:
+  path:
+    - name: emai-id
+      value: ""
